@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+
+.nav-logo {
+    height: 50px;
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.logo {
+    background-image: url("images/pngwing.com.png");
+    width: 100px;
+    height: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+form {
+    border: 1px solid rgba(0, 0, 0, 0.685);
+    width: 350px;
+    height: 250px;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+
